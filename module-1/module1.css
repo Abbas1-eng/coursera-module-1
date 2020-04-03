@@ -2,7 +2,8 @@ h1 {color: gray ;
  margin:auto;
 width: 60%;
 padding:10px;
-text-align: center}
+text-align: center;
+font-size: 2em}
 #chicken {background-color: indianred;
 height: 20px;
 width:70px;
@@ -19,6 +20,7 @@ position: relative;
     height: 20px;
 width:70px;
 border: 2px solid black;
+color: white
 }
 #sushi {background-color: sandybrown;
     height: 20px;
@@ -56,5 +58,6 @@ border: 2px solid black;
         left: 90%  }
 }
 div { position: sticky;
-    left: 87%}
+    left: 87%;
+font-size: 1.5em%}
 body {font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif }
